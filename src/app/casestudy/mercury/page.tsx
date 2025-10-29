@@ -1,0 +1,1 @@
+full contents of src/app/casestudy/mercury/page.tsx

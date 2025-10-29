@@ -1,0 +1,5 @@
+{
+  "name": "PrismUI Landing Page (Next.js)",
+  "description": "A landing page for PrismUI, a component library built on Tailwind CSS. Refactored to use Next.js and React, inspired by shadcn/ui.",
+  "requestFramePermissions": []
+}
